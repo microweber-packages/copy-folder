@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-copy-folder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microweber-packages/vite-plugin-copy-folder.git"
+  },
+  "author": "Microweber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microweber-packages/vite-plugin-copy-folder/issues"
+  },
+  "homepage": "https://github.com/microweber-packages/vite-plugin-copy-folder#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
